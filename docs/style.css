@@ -1,0 +1,233 @@
+/* Survivor Season 50 - Site Styles */
+:root {
+  --color-bg: #1a1a2e;
+  --color-surface: #16213e;
+  --color-card: #0f3460;
+  --color-accent: #e94560;
+  --color-text: #eee;
+  --color-muted: #aaa;
+  --color-link: #53a8ff;
+  --tribe-cila: #f59e42;
+  --tribe-kalo: #3ec9a7;
+  --tribe-vatu: #b266ff;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+a { color: var(--color-link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Header / Nav */
+header {
+  background: var(--color-surface);
+  border-bottom: 3px solid var(--color-accent);
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+header .site-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-accent);
+}
+
+nav { display: flex; gap: 1.2rem; flex-wrap: wrap; }
+nav a { color: var(--color-text); font-weight: 500; }
+nav a:hover { color: var(--color-accent); text-decoration: none; }
+
+/* Main content */
+main {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+h1 { font-size: 2rem; margin-bottom: 0.5rem; color: var(--color-accent); }
+h2 { font-size: 1.5rem; margin: 1.5rem 0 0.75rem; }
+h3 { font-size: 1.15rem; margin: 1rem 0 0.5rem; }
+
+p { margin-bottom: 1rem; }
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+.hero h1 { font-size: 2.5rem; }
+.hero .subtitle {
+  font-size: 1.2rem;
+  color: var(--color-muted);
+  margin-top: 0.25rem;
+}
+
+/* Cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.card {
+  background: var(--color-card);
+  border-radius: 10px;
+  padding: 1.25rem;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+}
+.card h3 { margin-top: 0; }
+.card .meta { color: var(--color-muted); font-size: 0.9rem; }
+
+/* Tribe sections */
+.tribe-section { margin: 2rem 0; }
+.tribe-heading {
+  font-size: 1.4rem;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+.tribe-heading.cila  { background: var(--tribe-cila); color: #1a1a2e; }
+.tribe-heading.kalo  { background: var(--tribe-kalo); color: #1a1a2e; }
+.tribe-heading.vatu  { background: var(--tribe-vatu); color: #1a1a2e; }
+
+/* Player list inside tribe */
+.player-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75rem;
+}
+.player-chip {
+  background: var(--color-surface);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  display: block;
+  color: var(--color-text);
+  font-weight: 500;
+  border-left: 4px solid var(--color-muted);
+  transition: background 0.15s;
+}
+.player-chip:hover {
+  background: var(--color-card);
+  text-decoration: none;
+}
+.player-chip.cila { border-left-color: var(--tribe-cila); }
+.player-chip.kalo { border-left-color: var(--tribe-kalo); }
+.player-chip.vatu { border-left-color: var(--tribe-vatu); }
+.player-chip .chip-sub { display: block; font-size: 0.8rem; color: var(--color-muted); font-weight: 400; }
+
+/* Advantages / Idols table */
+.advantage-list {
+  list-style: none;
+  margin: 1rem 0;
+}
+.advantage-list li {
+  background: var(--color-surface);
+  border-left: 4px solid var(--color-accent);
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 0 8px 8px 0;
+}
+.advantage-list li strong { color: var(--color-accent); }
+
+/* Player page */
+.player-header {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+.player-info { flex: 1; min-width: 250px; }
+.player-info .tribe-badge {
+  display: inline-block;
+  padding: 0.2rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.player-info .tribe-badge.cila { background: var(--tribe-cila); color: #1a1a2e; }
+.player-info .tribe-badge.kalo { background: var(--tribe-kalo); color: #1a1a2e; }
+.player-info .tribe-badge.vatu { background: var(--tribe-vatu); color: #1a1a2e; }
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0;
+}
+.stat-box {
+  background: var(--color-surface);
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+}
+.stat-box .label { font-size: 0.8rem; color: var(--color-muted); text-transform: uppercase; }
+.stat-box .value { font-size: 1.1rem; font-weight: 600; }
+
+/* Spoiler banner */
+.spoiler-banner {
+  background: var(--color-accent);
+  color: #fff;
+  text-align: center;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  font-weight: 600;
+}
+
+/* Elimination card */
+.elimination {
+  background: #2d1320;
+  border: 2px solid var(--color-accent);
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin: 1rem 0;
+}
+.elimination h3 { color: var(--color-accent); }
+
+/* Episode nav */
+.episode-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-surface);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 2rem;
+  color: var(--color-muted);
+  font-size: 0.85rem;
+  border-top: 1px solid var(--color-surface);
+  margin-top: 3rem;
+}
+
+/* Eliminated player styling */
+.player-chip.eliminated {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  header { padding: 0.75rem 1rem; }
+  .hero h1 { font-size: 1.8rem; }
+  main { padding: 0 1rem; }
+}
