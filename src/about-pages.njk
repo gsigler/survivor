@@ -1,0 +1,38 @@
+---
+pagination:
+  data: players
+  size: 1
+  alias: player
+permalink: "/players/{{ player.slug }}.html"
+layout: base.njk
+eleventyComputed:
+  title: "{{ player.name }}"
+---
+<p><a href="{{ '/' | url }}">&larr; Back to cast</a></p>
+<h1>{{ player.displayName or player.name }}</h1>
+<div class="player-header">
+  <div class="player-info">
+    <span class="tribe-badge {{ player.tribe }}">{{ player.tribeName }}</span>
+    <div class="stat-grid">
+      {%- for stat in player.stats %}
+      <div class="stat-box"><div class="label">{{ stat.label }}</div><div class="value">{{ stat.value }}</div></div>
+      {%- endfor %}
+      <div class="stat-box"><div class="label">Status</div><div class="value">Active</div></div>
+    </div>
+  </div>
+</div>
+<div class="player-photos">
+  <div class="photo-card">
+    <img src="{{ ('/images/players/' + player.slug + '-original.jpg') | url }}" alt="{{ player.name }} on {{ player.photos.originalAlt }}">
+    <div class="photo-label">{{ player.photos.originalLabel }}</div>
+  </div>
+  <div class="photo-card">
+    <img src="{{ ('/images/players/' + player.slug + '-s50.jpg') | url }}" alt="{{ player.name }} on Survivor 50">
+    <div class="photo-label">Season 50</div>
+  </div>
+</div>
+
+<h2>About</h2>
+{%- for para in player.about %}
+<p>{{ para }}</p>
+{%- endfor %}

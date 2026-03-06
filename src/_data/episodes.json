@@ -1,0 +1,158 @@
+[
+  {
+    "number": 1,
+    "title": "Epic Party",
+    "date": "February 25, 2026",
+    "shortDate": "Feb 25",
+    "playersRemaining": 24,
+    "lastWeek": null,
+    "tribes": [
+      {
+        "name": "Cila Tribe (Orange)",
+        "key": "cila",
+        "players": [
+          { "slug": "christian-hubicki", "tags": [] },
+          { "slug": "cirie-fields", "tags": [] },
+          { "slug": "emily-flippen", "tags": [] },
+          { "slug": "jenna-lewis", "tags": [] },
+          { "slug": "joe-hunter", "tags": [] },
+          { "slug": "ozzy-lusth", "tags": [] },
+          { "slug": "rick-devens", "tags": [] },
+          { "slug": "savannah-louie", "tags": [] }
+        ]
+      },
+      {
+        "name": "Kalo Tribe (Teal)",
+        "key": "kalo",
+        "players": [
+          { "slug": "charlie-davis", "tags": [] },
+          { "slug": "chrissy-hofbeck", "tags": [] },
+          { "slug": "coach-wade", "tags": [] },
+          { "slug": "dee-valladares", "tags": [] },
+          { "slug": "jonathan-young", "tags": [] },
+          { "slug": "kamilla-karthigesu", "tags": [] },
+          { "slug": "mike-white", "tags": [] },
+          { "slug": "tiffany-ervin", "tags": [] }
+        ]
+      },
+      {
+        "name": "Vatu Tribe (Purple)",
+        "key": "vatu",
+        "players": [
+          { "slug": "angelina-keeley", "tags": [] },
+          { "slug": "aubry-bracco", "tags": [] },
+          { "slug": "colby-donaldson", "tags": [] },
+          { "slug": "genevieve-mushaluk", "tags": [] },
+          { "slug": "kyle-fraser", "tags": [] },
+          { "slug": "q-burdette", "tags": [] },
+          { "slug": "rizo-velovic", "tags": [] },
+          { "slug": "stephenie-lagrossa", "tags": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Therapy Carousel",
+    "date": "March 4, 2026",
+    "shortDate": "Mar 4",
+    "playersRemaining": 22,
+    "lastWeek": "The 3-hour premiere dropped 24 returning players onto the beach. Fans voted for \"dynamic\" advantages and to keep idols in play. Jenna Lewis-Dougherty came out swinging against Cirie but the Cila tribe flipped on her unanimously (7-1). Kyle Fraser ruptured his Achilles in the immunity challenge and was medevacked on Day 4. Ozzy picked up an Extra Vote and a Boomerang Idol (gifted by Genevieve), Savannah won a secret Block-a-Vote, and both Q and Colby lost their votes. Kalo and Vatu won immunity.",
+    "tribes": [
+      {
+        "name": "Cila Tribe (Orange)",
+        "key": "cila",
+        "players": [
+          { "slug": "christian-hubicki", "tags": [] },
+          { "slug": "cirie-fields", "tags": [] },
+          { "slug": "emily-flippen", "tags": [] },
+          { "slug": "jenna-lewis", "tags": [{ "type": "out", "text": "Voted Out 7-1" }], "eliminated": true },
+          { "slug": "joe-hunter", "tags": [] },
+          { "slug": "ozzy-lusth", "tags": [{ "type": "advantage", "text": "Extra Vote" }, { "type": "advantage", "text": "Boomerang Idol" }] },
+          { "slug": "rick-devens", "tags": [] },
+          { "slug": "savannah-louie", "tags": [{ "type": "advantage", "text": "Block-a-Vote" }] }
+        ]
+      },
+      {
+        "name": "Kalo Tribe (Teal)",
+        "key": "kalo",
+        "players": [
+          { "slug": "charlie-davis", "tags": [] },
+          { "slug": "chrissy-hofbeck", "tags": [] },
+          { "slug": "coach-wade", "tags": [] },
+          { "slug": "dee-valladares", "tags": [] },
+          { "slug": "jonathan-young", "tags": [] },
+          { "slug": "kamilla-karthigesu", "tags": [] },
+          { "slug": "mike-white", "tags": [] },
+          { "slug": "tiffany-ervin", "tags": [] }
+        ]
+      },
+      {
+        "name": "Vatu Tribe (Purple)",
+        "key": "vatu",
+        "players": [
+          { "slug": "angelina-keeley", "tags": [] },
+          { "slug": "aubry-bracco", "tags": [] },
+          { "slug": "colby-donaldson", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
+          { "slug": "genevieve-mushaluk", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "kyle-fraser", "tags": [{ "type": "out", "text": "Medevac" }], "eliminated": true },
+          { "slug": "q-burdette", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
+          { "slug": "rizo-velovic", "tags": [] },
+          { "slug": "stephenie-lagrossa", "tags": [] }
+        ]
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Did You Vote for a Swap?",
+    "date": "March 11, 2026",
+    "shortDate": "Mar 11",
+    "playersRemaining": 21,
+    "lastWeek": "Cila lost immunity for the second straight episode. Cirie orchestrated a vote flip to protect Ozzy, and Savannah Louie was voted out 5-1 (one stray vote on Ozzy). Savannah never played her Block-a-Vote or Shot in the Dark. Christian found Cila's Boomerang Idol and gifted it to Aubry (Vatu), while he and Rick planted a fake idol parchment at Tribal Council. Ozzy gave Cirie his Extra Vote to cement their partnership. Coach and Ozzy clashed over \"honor\" at the reward challenge, and Rick feuded with Joe over whispered conversations with Savannah. On Vatu, Genevieve led an unsuccessful bag search on Aubry. Kalo's generational divide deepened as Dee labeled Coach \"old and dismantled\" and Chrissy \"a little too much.\"",
+    "tribes": [
+      {
+        "name": "Cila Tribe (Orange)",
+        "key": "cila",
+        "players": [
+          { "slug": "christian-hubicki", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "cirie-fields", "tags": [{ "type": "advantage", "text": "Extra Vote" }] },
+          { "slug": "emily-flippen", "tags": [] },
+          { "slug": "joe-hunter", "tags": [] },
+          { "slug": "jenna-lewis", "tags": [{ "type": "out", "text": "Voted Out Ep1" }], "eliminated": true },
+          { "slug": "ozzy-lusth", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
+          { "slug": "rick-devens", "tags": [] },
+          { "slug": "savannah-louie", "tags": [{ "type": "out", "text": "Voted Out Ep2" }], "eliminated": true }
+        ]
+      },
+      {
+        "name": "Kalo Tribe (Teal)",
+        "key": "kalo",
+        "players": [
+          { "slug": "charlie-davis", "tags": [] },
+          { "slug": "chrissy-hofbeck", "tags": [] },
+          { "slug": "coach-wade", "tags": [] },
+          { "slug": "dee-valladares", "tags": [] },
+          { "slug": "jonathan-young", "tags": [] },
+          { "slug": "kamilla-karthigesu", "tags": [] },
+          { "slug": "mike-white", "tags": [] },
+          { "slug": "tiffany-ervin", "tags": [] }
+        ]
+      },
+      {
+        "name": "Vatu Tribe (Purple)",
+        "key": "vatu",
+        "players": [
+          { "slug": "angelina-keeley", "tags": [] },
+          { "slug": "aubry-bracco", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
+          { "slug": "colby-donaldson", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
+          { "slug": "genevieve-mushaluk", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "kyle-fraser", "tags": [{ "type": "out", "text": "Medevac Ep1" }], "eliminated": true },
+          { "slug": "q-burdette", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
+          { "slug": "rizo-velovic", "tags": [] },
+          { "slug": "stephenie-lagrossa", "tags": [] }
+        ]
+      }
+    ]
+  }
+]

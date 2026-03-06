@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: "Survivor 50: In the Hands of the Fans"
+permalink: /index.html
+---
+<div class="hero">
+  <h1>Survivor 50</h1>
+  <p class="subtitle">Your watch-along companion. Open the episode page while you watch &mdash; each one has only what you need to know going in, with no spoilers ahead.</p>
+  <nav style="display:flex;gap:0.75rem;margin-top:0.75rem;flex-wrap:wrap">
+    {%- for ep in episodes %}
+    <a href="{{ ('/episode' + ep.number + '.html') | url }}" class="card" style="text-decoration:none;color:inherit;flex:1;text-align:center;min-width:80px"><h3>Episode {{ ep.number }}</h3><p class="meta">{{ ep.shortDate }}</p></a>
+    {%- endfor %}
+  </nav>
+</div>
+
+<h2>The Cast</h2>
+
+<div class="player-list">
+  {%- for player in players %}
+  <a href="{{ ('/players/' + player.slug + '.html') | url }}" class="player-chip"><span class="chip-photo" style="background-image:url({{ ('/images/players/' + player.slug + '-s50.jpg') | url }})"></span><span>{{ player.name }}<span class="chip-sub">{{ player.seasonSub }}</span></span></a>
+  {%- endfor %}
+</div>

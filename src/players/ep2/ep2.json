@@ -1,0 +1,5 @@
+{
+  "layout": "player-episode.njk",
+  "episode": 2,
+  "permalink": "/players/ep2/{{ page.fileSlug }}.html"
+}

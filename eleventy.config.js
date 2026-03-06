@@ -1,0 +1,21 @@
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/images");
+
+  eleventyConfig.addFilter("getPlayer", function (players, slug) {
+    return players.find((p) => p.slug === slug);
+  });
+
+  eleventyConfig.addFilter("getEpisode", function (episodes, num) {
+    return episodes.find((e) => e.number === num);
+  });
+
+  return {
+    dir: {
+      input: "src",
+      includes: "_includes",
+      data: "_data",
+      output: "_site",
+    },
+  };
+};

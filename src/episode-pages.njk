@@ -1,0 +1,44 @@
+---
+pagination:
+  data: episodes
+  size: 1
+  alias: ep
+permalink: "/episode{{ ep.number }}.html"
+layout: base.njk
+eleventyComputed:
+  title: "Episode {{ ep.number }}"
+---
+<h1>Episode {{ ep.number }} &mdash; "{{ ep.title }}"</h1>
+<p class="meta" style="color:var(--text-3)">{{ ep.date }} &bull; {{ ep.playersRemaining }} Players Remaining</p>
+{%- if ep.lastWeek %}
+<p class="meta" style="color:var(--accent);margin-bottom:1.5rem">Watch along &mdash; catch up on what happened through Episode {{ ep.number - 1 }}</p>
+
+<h2>Last Week</h2>
+<p>{{ ep.lastWeek }}</p>
+{%- endif %}
+
+{%- for tribe in ep.tribes %}
+<div class="tribe-section">
+  <div class="tribe-heading {{ tribe.key }}">{{ tribe.name }}</div>
+  <div class="player-list">
+    {%- for entry in tribe.players %}
+    {%- set player = players | getPlayer(entry.slug) %}
+    <a href="{{ ('/players/ep' + ep.number + '/' + entry.slug + '.html') | url }}" class="player-chip {{ tribe.key }}{% if entry.eliminated %} eliminated{% endif %}"><span class="chip-photo" style="background-image:url({{ ('/images/players/' + entry.slug + '-s50.jpg') | url }})"></span><span>{{ player.displayName or player.name }}{%- for tag in entry.tags %}<span class="chip-tag {{ tag.type }}">{{ tag.text }}</span>{%- endfor %}</span></a>
+    {%- endfor %}
+  </div>
+</div>
+{%- endfor %}
+
+<div class="episode-nav">
+  {%- if ep.number > 1 %}
+  <a href="{{ ('/episode' + (ep.number - 1) + '.html') | url }}">&larr; Episode {{ ep.number - 1 }}</a>
+  {%- else %}
+  <span></span>
+  {%- endif %}
+  {%- set nextEp = episodes | getEpisode(ep.number + 1) %}
+  {%- if nextEp %}
+  <a href="{{ ('/episode' + (ep.number + 1) + '.html') | url }}">Episode {{ ep.number + 1 }} &rarr;</a>
+  {%- else %}
+  <span></span>
+  {%- endif %}
+</div>

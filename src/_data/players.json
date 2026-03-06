@@ -1,0 +1,487 @@
+[
+  {
+    "slug": "angelina-keeley",
+    "name": "Angelina Keeley",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Season 37",
+    "stats": [
+      { "label": "Age", "value": "35" },
+      { "label": "Previous Season", "value": "37 (David vs. Goliath)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor David vs. Goliath",
+      "originalLabel": "Season 37 (David vs. Goliath)"
+    },
+    "about": [
+      "Angelina Keeley first played on David vs. Goliath (Season 37), where she became one of the most memorable characters of the season. She is among the players advocating for fewer twists and a back-to-basics approach to the game. Since her first season, becoming a parent has fundamentally reshaped how she views pressure and risk in the game."
+    ]
+  },
+  {
+    "slug": "aubry-bracco",
+    "name": "Aubry Bracco",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Seasons 32, 34, 38",
+    "stats": [
+      { "label": "Age", "value": "39" },
+      { "label": "Previous Seasons", "value": "32, 34, 38" },
+      { "label": "Best Finish", "value": "Runner-up (Kaoh Rong)" },
+      { "label": "Times Played", "value": "4" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Kaoh Rong",
+      "originalLabel": "Season 32 (Kaoh Rong)"
+    },
+    "about": [
+      "Aubry Bracco made her debut on Kaoh Rong (Season 32), where she used her wit to outplay competitors and finish as runner-up. She returned for Game Changers (Season 34) and Edge of Extinction (Season 38) but couldn't replicate her deep run. Since her last Survivor appearance, Aubry has focused on building a new career and family, stepping away from \"game mode.\" She wants to be someone's \"pleasant surprise\" this time around and has learned to adapt from each game she plays."
+    ]
+  },
+  {
+    "slug": "charlie-davis",
+    "name": "Charlie Davis",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Season 46",
+    "stats": [
+      { "label": "Age", "value": "27" },
+      { "label": "Hometown", "value": "Manchester, MA" },
+      { "label": "Residence", "value": "Boston, MA" },
+      { "label": "Occupation", "value": "Attorney" },
+      { "label": "Previous Season", "value": "46 (Finalist)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 46",
+      "originalLabel": "Season 46"
+    },
+    "about": [
+      "Charlie Davis is Survivor's biggest Swiftie and one of the best strategists of the new era. On Season 46, he was a stabilizing force in one of the most chaotic seasons in recent memory. He made it to the Final Tribal Council but suffered a last-minute loss at the hands of his closest ally Maria. The 27-year-old attorney is part of what he calls the \"Tortured Finalists Department,\" eager for another shot at the title."
+    ]
+  },
+  {
+    "slug": "chrissy-hofbeck",
+    "name": "Chrissy Hofbeck",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Season 35",
+    "stats": [
+      { "label": "Age", "value": "54" },
+      { "label": "Hometown", "value": "New Jersey" },
+      { "label": "Residence", "value": "The Villages, FL" },
+      { "label": "Occupation", "value": "Actuary" },
+      { "label": "Previous Season", "value": "35 (Runner-up)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Heroes vs. Healers vs. Hustlers",
+      "originalLabel": "Season 35 (HvHvH)"
+    },
+    "about": [
+      "Chrissy Hofbeck was the runner-up on Heroes vs. Healers vs. Hustlers (Season 35), where she tied the all-time women's record with four individual immunity challenge wins. She was part of 52% of all challenge wins that season. Since her Survivor appearance, Chrissy faced a major health scare — diagnosed with a mutated BRCA gene, she underwent pre-emptive surgery and later discovered she had developed a tumor, validating her decision. That experience strengthened her trust in her own intuition."
+    ]
+  },
+  {
+    "slug": "christian-hubicki",
+    "name": "Christian Hubicki",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Season 37",
+    "stats": [
+      { "label": "Age", "value": "39" },
+      { "label": "Hometown", "value": "Baltimore, MD" },
+      { "label": "Residence", "value": "Tallahassee, FL" },
+      { "label": "Occupation", "value": "Robotics Professor" },
+      { "label": "Previous Season", "value": "37 (David vs. Goliath)" },
+      { "label": "Best Finish", "value": "7th Place" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 37",
+      "originalLabel": "Season 37 (David vs. Goliath)"
+    },
+    "about": [
+      "Christian Hubicki became a fan favorite on David vs. Goliath with his endearing personality and sharp strategic mind. The robotics professor finished 7th in his first outing and has been one of the most-requested returnees since. He learned from castmate Mike White the concept of \"narrative warfare\" and hopes to deploy it this time around.",
+      "Christian is keeping one major secret: his six-week-old baby at home."
+    ]
+  },
+  {
+    "slug": "cirie-fields",
+    "name": "Cirie Fields",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Seasons 12, 16, 20, 34",
+    "stats": [
+      { "label": "Age", "value": "55" },
+      { "label": "Hometown", "value": "Jersey City, NJ" },
+      { "label": "Occupation", "value": "Registered Nurse" },
+      { "label": "Previous Seasons", "value": "12, 16, 20, 34" },
+      { "label": "Best Finish", "value": "3rd (Micronesia)" },
+      { "label": "Times Played", "value": "5 (record-tying)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Panama",
+      "originalLabel": "Season 12 (Panama)"
+    },
+    "about": [
+      "Cirie Fields is one of the most beloved and respected players in Survivor history. She went from a self-described \"couch potato\" afraid of leaves in Season 12 (Panama) to one of the greatest strategic minds the game has ever seen. Across four previous seasons, she finished 4th (Panama), 3rd (Micronesia), and 6th (Game Changers), never quite reaching the final Tribal Council despite being a masterful player.",
+      "Cirie also won The Traitors, but she doesn't consider herself a true \"legend\" until she has a Survivor win. Season 50 marks her record-tying fifth time playing."
+    ]
+  },
+  {
+    "slug": "coach-wade",
+    "name": "Coach Wade",
+    "displayName": "Benjamin \"Coach\" Wade",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Seasons 18, 20, 23",
+    "stats": [
+      { "label": "Age", "value": "53" },
+      { "label": "Hometown", "value": "Knoxville, TN" },
+      { "label": "Residence", "value": "Susanville, CA" },
+      { "label": "Occupation", "value": "Music Teacher / Coach" },
+      { "label": "Previous Seasons", "value": "18, 20, 23" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Tocantins",
+      "originalLabel": "Season 18 (Tocantins)"
+    },
+    "about": [
+      "Coach is one of Survivor's most iconic and entertaining characters. He first appeared on Tocantins (Season 18) with his tales of adventure and self-proclaimed warrior spirit. He returned for Heroes vs. Villains (Season 20) and then led a dominant alliance on South Pacific (Season 23), making it to the Final Tribal Council but losing the jury vote. He is among the players openly advocating for fewer twists and a back-to-basics approach to the game."
+    ]
+  },
+  {
+    "slug": "colby-donaldson",
+    "name": "Colby Donaldson",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Seasons 2, 8, 20",
+    "stats": [
+      { "label": "Age", "value": "51" },
+      { "label": "Previous Seasons", "value": "2, 8, 20" },
+      { "label": "Times Played", "value": "4" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Australian Outback",
+      "originalLabel": "Season 2 (Australian Outback)"
+    },
+    "about": [
+      "Colby Donaldson is an early Survivor icon. He was just 26 years old when he competed on The Australian Outback (Season 2), where he became a fan favorite and finalist. He returned for All-Stars (Season 8) and Heroes vs. Villains (Season 20), where he finished 5th as the last \"hero\" standing. Now 51, he hasn't played in over a decade. He admitted he almost dropped out of Season 50 but described his fourth time on the show as the \"most fun.\""
+    ]
+  },
+  {
+    "slug": "dee-valladares",
+    "name": "Dee Valladares",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Season 45 Winner",
+    "stats": [
+      { "label": "Age", "value": "28" },
+      { "label": "Hometown", "value": "Miami, FL" },
+      { "label": "Occupation", "value": "Entrepreneur" },
+      { "label": "Previous Season", "value": "45 (Winner)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 45",
+      "originalLabel": "Season 45"
+    },
+    "about": [
+      "Dee Valladares is the Sole Survivor of Season 45 and one of three winners competing on Season 50. The Miami entrepreneur played a dominant strategic game in her first outing, earning the title with a decisive jury vote. As a winner, she enters the game with a massive target on her back."
+    ]
+  },
+  {
+    "slug": "emily-flippen",
+    "name": "Emily Flippen",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Season 45",
+    "stats": [
+      { "label": "Age", "value": "30" },
+      { "label": "Hometown", "value": "McKinney, TX" },
+      { "label": "Residence", "value": "Laurel, MD" },
+      { "label": "Occupation", "value": "Investment Analyst" },
+      { "label": "Previous Season", "value": "45 (7th Place)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 45",
+      "originalLabel": "Season 45"
+    },
+    "about": [
+      "Emily Flippen had one of the most remarkable character arcs in recent Survivor history. On Season 45, she started as a blunt, direct outsider who clashed with her tribemates early on. Over the course of the game, she transformed into a softer, more interpersonal power player, finishing 7th. She's eager to find the \"Goldilocks method\" between being too aggressive and too passive."
+    ]
+  },
+  {
+    "slug": "genevieve-mushaluk",
+    "name": "Genevieve Mushaluk",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Season 47",
+    "stats": [
+      { "label": "Age", "value": "34" },
+      { "label": "Occupation", "value": "Corporate Lawyer" },
+      { "label": "Previous Season", "value": "47 (5th Place)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 47",
+      "originalLabel": "Season 47"
+    },
+    "about": [
+      "Genevieve Mushaluk was one of the villains of Season 47, the corporate lawyer placing 5th and becoming a jury member. She returns almost immediately after her debut season, and her sharp strategic instincts make her a player to watch."
+    ]
+  },
+  {
+    "slug": "jenna-lewis",
+    "name": "Jenna Lewis-Dougherty",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Seasons 1, 8",
+    "stats": [
+      { "label": "Previous Seasons", "value": "1 (Borneo), 8 (All-Stars)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Borneo",
+      "originalLabel": "Season 1 (Borneo)"
+    },
+    "about": [
+      "Jenna Lewis-Dougherty is a Survivor original, having competed on the very first season (Borneo) back in 2000. She returned for All-Stars (Season 8) and came into Season 50 with reverence from the cast as a representative of the show's earliest days."
+    ]
+  },
+  {
+    "slug": "joe-hunter",
+    "name": "Joe Hunter",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Season 48",
+    "stats": [
+      { "label": "Previous Season", "value": "48" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 48",
+      "originalLabel": "Season 48"
+    },
+    "about": [
+      "Joe Hunter is one of the physically strongest players from the new era of Survivor. He made his debut on Season 48 and quickly established himself as a formidable competitor in challenges. His combination of physical prowess and social awareness made him a memorable player in his first outing."
+    ]
+  },
+  {
+    "slug": "jonathan-young",
+    "name": "Jonathan Young",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Season 42",
+    "stats": [
+      { "label": "Age", "value": "32" },
+      { "label": "Hometown", "value": "Gadsden, AL" },
+      { "label": "Residence", "value": "Gulf Shores, AL" },
+      { "label": "Occupation", "value": "Beach Service Owner" },
+      { "label": "Previous Season", "value": "42" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 42",
+      "originalLabel": "Season 42"
+    },
+    "about": [
+      "Jonathan Young burst onto the Survivor scene in Season 42 as one of the most physically dominant players in recent memory. He made it to Day 25 before being eliminated after losing the fire-making challenge. Jeff Probst has called him one of the most \"dominant\" players the show has seen. Before Season 50, Boston Rob wrote Jonathan a letter full of strategic advice to read on the plane."
+    ]
+  },
+  {
+    "slug": "kamilla-karthigesu",
+    "name": "Kamilla Karthigesu",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Season 48",
+    "stats": [
+      { "label": "Age", "value": "31" },
+      { "label": "Hometown", "value": "Toronto, Ontario, Canada" },
+      { "label": "Residence", "value": "Foster City, CA" },
+      { "label": "Occupation", "value": "Software Engineer" },
+      { "label": "Previous Season", "value": "48 (Finalist)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 48",
+      "originalLabel": "Season 48"
+    },
+    "about": [
+      "Kamilla Karthigesu made it to the final episode of Season 48, where she lost to Kyle Fraser (who is also on Season 50). She's one of the rare players returning at the exact same age she debuted, due to the tight turnaround between seasons. Stephenie LaGrossa has called Kamilla someone who \"concerns\" her, noting that she \"prides herself on lying and likes to lie\" and is a \"huge threat.\""
+    ]
+  },
+  {
+    "slug": "kyle-fraser",
+    "name": "Kyle Fraser",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Season 48 Winner",
+    "stats": [
+      { "label": "Age", "value": "32" },
+      { "label": "Previous Season", "value": "48 (Winner)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 48",
+      "originalLabel": "Season 48"
+    },
+    "about": [
+      "Kyle Fraser is the Sole Survivor of Season 48 and one of three winners on the Season 50 cast. Only a couple of weeks after his win aired on TV, Kyle was back in Fiji for his second season. Despite being a winner, he found himself in a surprisingly strong position on the Vatu tribe, forming a tight alliance with Genevieve Mushaluk, Colby Donaldson, Stephenie LaGrossa, and Q Burdette. Kyle joined the Survivor club of two-time players who have never been voted out of the game."
+    ]
+  },
+  {
+    "slug": "mike-white",
+    "name": "Mike White",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Season 37",
+    "stats": [
+      { "label": "Age", "value": "54" },
+      { "label": "Hometown", "value": "Pasadena, CA" },
+      { "label": "Residence", "value": "Hanalei, HI" },
+      { "label": "Occupation", "value": "Writer / Director" },
+      { "label": "Previous Season", "value": "37 (David vs. Goliath)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor David vs. Goliath",
+      "originalLabel": "Season 37 (David vs. Goliath)"
+    },
+    "about": [
+      "Mike White is perhaps best known outside of Survivor as the creator of HBO's The White Lotus. He previously played on David vs. Goliath (Season 37), where he took a laid-back, \"goofball\" approach to the game. His strategic philosophy centers on taking the back seat while letting others become bigger targets. His concept of \"narrative warfare\" has influenced other players, including his Season 37 castmate Christian Hubicki."
+    ]
+  },
+  {
+    "slug": "ozzy-lusth",
+    "name": "Ozzy Lusth",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Seasons 13, 16, 23, 34",
+    "stats": [
+      { "label": "Age", "value": "43" },
+      { "label": "Hometown", "value": "Guanajuato City, Mexico" },
+      { "label": "Occupation", "value": "Restaurant/Venue Owner" },
+      { "label": "Previous Seasons", "value": "13, 16, 23, 34" },
+      { "label": "Best Finish", "value": "Runner-up (Cook Islands)" },
+      { "label": "Times Played", "value": "5 (record-tying)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Cook Islands",
+      "originalLabel": "Season 13 (Cook Islands)"
+    },
+    "about": [
+      "Ozzy Lusth is one of the most physically dominant players in Survivor history. His challenge prowess is legendary — from climbing trees to catch fish to dominating immunity runs. He finished as runner-up on Cook Islands and 4th on South Pacific but has never won the title of Sole Survivor. Now the owner of a music venue, tiki bar, and restaurant called Xolazul, Ozzy returns for a record-tying fifth time."
+    ]
+  },
+  {
+    "slug": "q-burdette",
+    "name": "Q Burdette",
+    "displayName": "Quintavius \"Q\" Burdette",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Season 46",
+    "stats": [
+      { "label": "Age", "value": "31" },
+      { "label": "Previous Season", "value": "46 (6th Place)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 46",
+      "originalLabel": "Season 46"
+    },
+    "about": [
+      "Q Burdette brought plenty of charm and controversy to Season 46, finishing 6th. He's perhaps best remembered for being the subject of another player's ire when he won an Applebee's reward. His strategy for Season 50 is clear: \"If you've ever sat at the end, whether you've won, lost or whatever … I don't want to work with you long term. I want you out of the game.\" His former rival Tiffany Ervin is on the opposing Kalo tribe."
+    ]
+  },
+  {
+    "slug": "rick-devens",
+    "name": "Rick Devens",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Season 38",
+    "stats": [
+      { "label": "Age", "value": "41" },
+      { "label": "Hometown", "value": "Blacksburg, VA" },
+      { "label": "Residence", "value": "Macon, GA" },
+      { "label": "Occupation", "value": "Director of Communications" },
+      { "label": "Previous Season", "value": "38 (Edge of Extinction) — 4th" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Edge of Extinction",
+      "originalLabel": "Season 38 (Edge of Extinction)"
+    },
+    "about": [
+      "Rick Devens is one of the most beloved players from the Edge of Extinction era. After being voted out pre-merge, he returned from the Edge and put together an extraordinary run of immunity wins, idol finds, and Tribal Council theatrics on his way to a 4th-place finish. He was initially cast as an alternate for Season 50 but was added to the final cast when a spot opened up."
+    ]
+  },
+  {
+    "slug": "rizo-velovic",
+    "name": "Rizo Velovic",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Season 49",
+    "stats": [
+      { "label": "Age", "value": "26" },
+      { "label": "Previous Season", "value": "49 (4th Place)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 49",
+      "originalLabel": "Season 49"
+    },
+    "about": [
+      "Rizo \"RizGod\" Velovic is the youngest contestant on Season 50 at just 26 years old. Fresh off a 4th-place finish on Season 49, he had a mere two weeks between seasons before returning to Fiji. His youthful energy and confidence earned him the nickname \"RizGod\" among fans. Rizo has said he wants to be careful not to come across as \"bratty, young, cocky\" around the older, more experienced players."
+    ]
+  },
+  {
+    "slug": "savannah-louie",
+    "name": "Savannah Louie",
+    "tribe": "cila",
+    "tribeName": "Cila Tribe",
+    "seasonSub": "Season 49 Winner",
+    "stats": [
+      { "label": "Age", "value": "31" },
+      { "label": "Hometown", "value": "Walnut Creek, CA" },
+      { "label": "Occupation", "value": "Marketing Specialist" },
+      { "label": "Previous Season", "value": "49 (Winner)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 49",
+      "originalLabel": "Season 49"
+    },
+    "about": [
+      "Savannah Louie is the Sole Survivor of Season 49, making her one of three winners competing on Season 50. A former TV correspondent and traffic anchor, she transitioned to marketing after her time in media. She is the first Sole Survivor to compete on the very next season, returning to Fiji just 10 days after arriving home from her winning game.",
+      "In Season 49, Savannah won a record-tying four individual immunity challenges and holds the new era record for most total challenges won by a Sole Survivor with 12."
+    ]
+  },
+  {
+    "slug": "stephenie-lagrossa",
+    "name": "Stephenie LaGrossa",
+    "displayName": "Stephenie LaGrossa Kendrick",
+    "tribe": "vatu",
+    "tribeName": "Vatu Tribe",
+    "seasonSub": "Seasons 10, 11, 20",
+    "stats": [
+      { "label": "Age", "value": "45" },
+      { "label": "Previous Seasons", "value": "10, 11, 20" },
+      { "label": "Best Finish", "value": "Runner-up (Guatemala)" },
+      { "label": "Times Played", "value": "4" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor Palau",
+      "originalLabel": "Season 10 (Palau)"
+    },
+    "about": [
+      "Stephenie LaGrossa Kendrick is a Survivor legend and the only castaway to ever be on a tribe completely by herself, a distinction from Palau (Season 10). She was the runner-up on Guatemala (Season 11) but was voted out early on Heroes vs. Villains (Season 20). She had previously said that was her last time playing, but she's back for a fourth attempt. Her downfall has traditionally been the social side of the game, but her fighter mentality could serve as a useful shield for alliance partners."
+    ]
+  },
+  {
+    "slug": "tiffany-ervin",
+    "name": "Tiffany Ervin",
+    "tribe": "kalo",
+    "tribeName": "Kalo Tribe",
+    "seasonSub": "Season 46",
+    "stats": [
+      { "label": "Age", "value": "34" },
+      { "label": "Hometown", "value": "Franklin Township, NJ" },
+      { "label": "Residence", "value": "Los Angeles, CA" },
+      { "label": "Occupation", "value": "Artist / Creative Producer" },
+      { "label": "Previous Season", "value": "46 (8th Place)" }
+    ],
+    "photos": {
+      "originalAlt": "Survivor 46",
+      "originalLabel": "Season 46"
+    },
+    "about": [
+      "Tiffany Ervin finished 8th on Season 46, where she was blindsided with an idol in her pocket. Her downfall came from being too focused on her rivalry with Q Burdette (who is also on Season 50, but on the Vatu tribe) and failing to see the larger target forming around her. She returns with a present-focused mindset and has vowed to keep any idol finds secret this time."
+    ]
+  }
+]

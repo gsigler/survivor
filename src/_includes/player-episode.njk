@@ -1,0 +1,59 @@
+---
+layout: base.njk
+---
+{%- set player = players | getPlayer(playerSlug) %}
+{%- set ep = episodes | getEpisode(episode) %}
+<p><a href="{{ ('/episode' + episode + '.html') | url }}">&larr; Back to Episode {{ episode }}</a></p>
+<h1>{{ player.displayName or player.name }}</h1>
+<div class="player-header">
+  <div class="player-info">
+    <span class="tribe-badge {{ player.tribe }}">{{ player.tribeName }}</span>
+    <div class="stat-grid">
+      {%- for stat in player.stats %}
+      <div class="stat-box"><div class="label">{{ stat.label }}</div><div class="value">{{ stat.value }}</div></div>
+      {%- endfor %}
+      <div class="stat-box"><div class="label">Status</div><div class="value">{{ status }}</div></div>
+      {%- if finished %}
+      <div class="stat-box"><div class="label">Finished</div><div class="value">{{ finished }}</div></div>
+      {%- endif %}
+    </div>
+  </div>
+</div>
+<div class="player-photos">
+  <div class="photo-card">
+    <img src="{{ ('/images/players/' + player.slug + '-original.jpg') | url }}" alt="{{ player.name }} on {{ player.photos.originalAlt }}">
+    <div class="photo-label">{{ player.photos.originalLabel }}</div>
+  </div>
+  <div class="photo-card">
+    <img src="{{ ('/images/players/' + player.slug + '-s50.jpg') | url }}" alt="{{ player.name }} on Survivor 50">
+    <div class="photo-label">Season 50</div>
+  </div>
+</div>
+
+{{ content | safe }}
+
+{%- if advantages %}
+<h2>Advantages</h2>
+<ul class="advantage-list">
+  {%- for adv in advantages %}
+  <li><strong>{{ adv.name }}</strong> &mdash; {{ adv.desc }}</li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+{%- if disadvantages %}
+<h2>Disadvantages</h2>
+<ul class="advantage-list">
+  {%- for dis in disadvantages %}
+  <li><strong>{{ dis.name }}</strong> &mdash; {{ dis.desc }}</li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+{%- if alliances %}
+<h2>Alliances</h2>
+<p>{{ alliances | safe }}</p>
+{%- endif %}
+
+<h2>About</h2>
+{%- for para in player.about %}
+<p>{{ para }}</p>
+{%- endfor %}

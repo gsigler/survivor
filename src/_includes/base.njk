@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} &mdash; Survivor 50</title>
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+</head>
+<body>
+  <header>
+    <span class="site-title">Survivor 50</span>
+    <nav>
+      <a href="{{ '/' | url }}">Home</a>
+      <details class="ep-dropdown">
+        <summary>Episodes ▾</summary>
+        <div class="ep-dropdown-menu">
+          {%- for ep in episodes %}
+          <a href="{{ ('/episode' + ep.number + '.html') | url }}">Episode {{ ep.number }} &mdash; "{{ ep.title }}"</a>
+          {%- endfor %}
+        </div>
+      </details>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <p>Survivor 50 Fan Tracker &bull; Not affiliated with CBS or Survivor</p>
+  </footer>
+</body>
+</html>
