@@ -11,6 +11,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    pathPrefix: "/survivor/",
     dir: {
       input: "src",
       includes: "_includes",
