@@ -151,5 +151,54 @@
         ]
       }
     ]
+  },
+  {
+    "number": 4,
+    "title": "Knife to the Heart",
+    "date": "March 18, 2026",
+    "shortDate": "Mar 18",
+    "playersRemaining": 20,
+    "lastWeek": "A fan-voted tribe swap reshuffled all three tribes after Jeff Probst rapped \"drop your buffs.\" On new Vatu, three David vs. Goliath players (Christian, Angelina, Mike) reunited while Q tried to form a rival alliance with Ozzy, Emily, and Stephenie. Emily became the swing vote, sharing information with both sides before flipping to join the DvG trio and convincing Ozzy to follow. Kamilla dominated as caller in a blindfolded immunity challenge, leading new Cila to first place and four chickens. Chrissy steered Kalo to second. Christian's poor calling cost Vatu the challenge. At Tribal Council, Q was voted out 5-1 after his plan to force a tie backfired — he had lied about having an Extra Vote and told Mike to vote for him, but Emily and Ozzy flipped to seal his fate. Stephenie cast the lone vote for Angelina. On new Cila, Dee and Jonathan immediately targeted Cirie as the biggest threat. Rizo's admission that he voted against his Season 49 bestie raised red flags for Charlie. On new Kalo, Joe bonded with Coach and Colby over \"good core values,\" Coach bluntly told Chrissy she talks too much, and Genevieve threw Aubry under the bus to the tribe — but Tiffany tipped Aubry off.",
+    "tribes": [
+      {
+        "name": "Cila Tribe (Orange)",
+        "key": "cila",
+        "players": [
+          { "slug": "charlie-davis", "tags": [] },
+          { "slug": "cirie-fields", "tags": [{ "type": "advantage", "text": "Extra Vote" }] },
+          { "slug": "dee-valladares", "tags": [] },
+          { "slug": "jonathan-young", "tags": [] },
+          { "slug": "kamilla-karthigesu", "tags": [] },
+          { "slug": "rick-devens", "tags": [] },
+          { "slug": "rizo-velovic", "tags": [] }
+        ]
+      },
+      {
+        "name": "Kalo Tribe (Teal)",
+        "key": "kalo",
+        "players": [
+          { "slug": "aubry-bracco", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
+          { "slug": "chrissy-hofbeck", "tags": [] },
+          { "slug": "coach-wade", "tags": [] },
+          { "slug": "colby-donaldson", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
+          { "slug": "genevieve-mushaluk", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "joe-hunter", "tags": [] },
+          { "slug": "tiffany-ervin", "tags": [] }
+        ]
+      },
+      {
+        "name": "Vatu Tribe (Purple)",
+        "key": "vatu",
+        "players": [
+          { "slug": "angelina-keeley", "tags": [] },
+          { "slug": "christian-hubicki", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "emily-flippen", "tags": [] },
+          { "slug": "mike-white", "tags": [] },
+          { "slug": "ozzy-lusth", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
+          { "slug": "q-burdette", "tags": [{ "type": "out", "text": "Voted Out 5-1" }], "eliminated": true },
+          { "slug": "stephenie-lagrossa", "tags": [] }
+        ]
+      }
+    ]
   }
 ]
