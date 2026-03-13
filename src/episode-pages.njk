@@ -23,7 +23,7 @@ eleventyComputed:
   <div class="player-list">
     {%- for entry in tribe.players %}
     {%- set player = players | getPlayer(entry.slug) %}
-    <a href="{{ ('/players/ep' + ep.number + '/' + entry.slug + '.html') | url }}" class="player-chip {{ tribe.key }}{% if entry.eliminated %} eliminated{% endif %}"><span class="chip-photo" style="background-image:url({{ ('/images/players/' + entry.slug + '-s50.jpg') | url }})"></span><span>{{ player.displayName or player.name }}{%- for tag in entry.tags %}<span class="chip-tag {{ tag.type }}">{{ tag.text }}</span>{%- endfor %}</span></a>
+    <a href="{{ ('/players/ep' + ep.number + '/' + entry.slug + '.html') | url }}" class="player-chip {{ tribe.key }}{% if entry.eliminated %} eliminated{% endif %}"><span class="chip-photo" style="background-image:url({{ ('/images/players/' + entry.slug + '-s50.jpg') | url }})"></span><span>{{ player.displayName or player.name }}{%- if player.tribe != tribe.key and not entry.eliminated %}<span class="chip-tag from-tribe {{ player.tribe }}">from {{ player.tribeName }}</span>{%- endif %}{%- for tag in entry.tags %}<span class="chip-tag {{ tag.type }}">{{ tag.text }}</span>{%- endfor %}</span></a>
     {%- endfor %}
   </div>
 </div>

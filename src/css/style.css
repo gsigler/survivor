@@ -369,6 +369,22 @@ footer {
   background: rgba(204,68,68,0.15);
   color: #c44;
 }
+.chip-tag.from-tribe {
+  background: rgba(255,255,255,0.06);
+}
+.chip-tag.from-tribe.cila { color: var(--tribe-cila); }
+.chip-tag.from-tribe.kalo { color: var(--tribe-kalo); }
+.chip-tag.from-tribe.vatu { color: var(--tribe-vatu); }
+
+/* Tribe origin label on about pages */
+.tribe-origin-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.65rem;
+  color: var(--text-3);
+  margin-left: 0.25rem;
+}
 
 /* Photos */
 .player-photos {
