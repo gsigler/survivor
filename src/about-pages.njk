@@ -12,7 +12,13 @@ eleventyComputed:
 <h1>{{ player.displayName or player.name }}</h1>
 <div class="player-header">
   <div class="player-info">
+    {%- set currentTribe = episodes | getCurrentTribe(player.slug) %}
+    {%- if currentTribe and currentTribe.key != player.tribe %}
+    <span class="tribe-badge {{ currentTribe.key }}">{{ currentTribe.name | replace(" (Orange)", "") | replace(" (Teal)", "") | replace(" (Purple)", "") }}</span>
+    <span class="tribe-origin-label">originally <span class="tribe-badge {{ player.tribe }}">{{ player.tribeName }}</span></span>
+    {%- else %}
     <span class="tribe-badge {{ player.tribe }}">{{ player.tribeName }}</span>
+    {%- endif %}
     <div class="stat-grid">
       {%- for stat in player.stats %}
       <div class="stat-box"><div class="label">{{ stat.label }}</div><div class="value">{{ stat.value }}</div></div>

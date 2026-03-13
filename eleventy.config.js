@@ -10,6 +10,16 @@ module.exports = function (eleventyConfig) {
     return episodes.find((e) => e.number === num);
   });
 
+  eleventyConfig.addFilter("getCurrentTribe", function (episodes, slug) {
+    const latestEp = episodes[episodes.length - 1];
+    for (const tribe of latestEp.tribes) {
+      if (tribe.players.some((p) => p.slug === slug && !p.eliminated)) {
+        return tribe;
+      }
+    }
+    return null;
+  });
+
   return {
     pathPrefix: "/survivor/",
     dir: {
