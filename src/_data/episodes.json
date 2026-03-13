@@ -115,27 +115,25 @@
         "name": "Cila Tribe (Orange)",
         "key": "cila",
         "players": [
-          { "slug": "christian-hubicki", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "charlie-davis", "tags": [] },
           { "slug": "cirie-fields", "tags": [{ "type": "advantage", "text": "Extra Vote" }] },
-          { "slug": "emily-flippen", "tags": [] },
-          { "slug": "joe-hunter", "tags": [] },
-          { "slug": "jenna-lewis", "tags": [{ "type": "out", "text": "Voted Out Ep1" }], "eliminated": true },
-          { "slug": "ozzy-lusth", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
+          { "slug": "dee-valladares", "tags": [] },
+          { "slug": "jonathan-young", "tags": [] },
+          { "slug": "kamilla-karthigesu", "tags": [] },
           { "slug": "rick-devens", "tags": [] },
-          { "slug": "savannah-louie", "tags": [{ "type": "out", "text": "Voted Out Ep2" }], "eliminated": true }
+          { "slug": "rizo-velovic", "tags": [] }
         ]
       },
       {
         "name": "Kalo Tribe (Teal)",
         "key": "kalo",
         "players": [
-          { "slug": "charlie-davis", "tags": [] },
+          { "slug": "aubry-bracco", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
           { "slug": "chrissy-hofbeck", "tags": [] },
           { "slug": "coach-wade", "tags": [] },
-          { "slug": "dee-valladares", "tags": [] },
-          { "slug": "jonathan-young", "tags": [] },
-          { "slug": "kamilla-karthigesu", "tags": [] },
-          { "slug": "mike-white", "tags": [] },
+          { "slug": "colby-donaldson", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
+          { "slug": "genevieve-mushaluk", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "joe-hunter", "tags": [] },
           { "slug": "tiffany-ervin", "tags": [] }
         ]
       },
@@ -144,12 +142,11 @@
         "key": "vatu",
         "players": [
           { "slug": "angelina-keeley", "tags": [] },
-          { "slug": "aubry-bracco", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
-          { "slug": "colby-donaldson", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
-          { "slug": "genevieve-mushaluk", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
-          { "slug": "kyle-fraser", "tags": [{ "type": "out", "text": "Medevac Ep1" }], "eliminated": true },
+          { "slug": "christian-hubicki", "tags": [{ "type": "advantage", "text": "Boomerang Idol (Finder)" }] },
+          { "slug": "emily-flippen", "tags": [] },
+          { "slug": "mike-white", "tags": [] },
+          { "slug": "ozzy-lusth", "tags": [{ "type": "advantage", "text": "Boomerang Idol" }] },
           { "slug": "q-burdette", "tags": [{ "type": "disadvantage", "text": "Lost Vote" }] },
-          { "slug": "rizo-velovic", "tags": [] },
           { "slug": "stephenie-lagrossa", "tags": [] }
         ]
       }
