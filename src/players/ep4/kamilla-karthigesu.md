@@ -16,3 +16,7 @@ Kamilla had limited screen time as Kalo avoided Tribal Council again. She remain
 ## Episode 3
 
 Kamilla was the star of the immunity challenge. As the caller for new Cila in the blindfolded obstacle course, she delivered flawless instructions that gave her tribe a commanding lead from start to finish, winning first place and a reward of four chickens. Her performance was the clear standout among the three callers (Christian and Chrissy called for the other tribes). On the strategic side, Kamilla is part of the Kalo four (with Dee, Charlie, Jonathan) that holds a majority on new Cila. Separated from her original ally Tiffany, she remains tightly aligned with Dee.
+
+## Episode 4
+
+Cila won immunity and no tribal occurred. Kamilla was standout caller in the challenge, leading Cila to first place and four chickens.

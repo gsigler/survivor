@@ -16,3 +16,7 @@ Rizo was formally recruited into the Vatu majority alliance (Q, Colby, Genevieve
 ## Episode 3
 
 The swap isolated Rizo on new Cila as the only Vatu member, alongside Cirie and Rick (Cila) and four Kalo players (Charlie, Dee, Jonathan, Kamilla). Rizo tried building trust with Charlie by sharing information about the Boomerang Idol and revealing that Ozzy had one. But in a nighttime conversation, he revealed he had voted against his Season 49 bestie Sophie at Final Tribal Council, then asked Charlie about his relationship with Maria from Season 46 -- an unwitting trigger for Charlie's deepest Survivor trauma about being screwed by a close ally at FTC. Charlie's trust in Rizo immediately evaporated, making Rizo the likely first boot if Cila goes to Tribal. During the immunity challenge, Rizo took a ring to the head during the blindfolded portion. Cila won immunity, buying him time.
+
+## Episode 4
+
+Cila won immunity and no tribal occurred. Kamilla was standout caller in the challenge, leading Cila to first place. Rizo stayed safe for another week while Charlie's distrust continued to build.

@@ -16,3 +16,7 @@ Joe clashed with Rick Devens over whispered conversations between Rick and Savan
 ## Episode 3
 
 The swap was a lifeline for Joe, landing him on new Kalo far from his Cila rivals Rick and Christian. He immediately gravitated toward Coach and Colby, forming an alliance built on "good core values" -- a natural fit for his direct, no-nonsense style. Coach brought in Chrissy as a fourth, giving the group a solid majority on the seven-person tribe. After two episodes of being on the outs at Cila, Joe is now in the best position of his game. Kalo won second-place immunity.
+
+## Episode 4
+
+Joe bonded with Coach and Colby over "good core values." Kalo won second place in the challenge, no tribal.

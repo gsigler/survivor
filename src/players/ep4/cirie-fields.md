@@ -19,3 +19,7 @@ Cirie showed why she's one of the best to ever play. When the tribe debated targ
 ## Episode 3
 
 The tribe swap was devastating for Cirie's position. She landed on new Cila with only Rick Devens from her original tribe, outnumbered by four Kalo members and Rizo from Vatu. Dee and Jonathan immediately started discussing her threat level -- Dee's friend had warned her that if she ended up on Cirie's tribe, she needed to vote her out because "everyone loves her." Cirie's ride-or-die Ozzy ended up on new Vatu, separating the powerful pair. Her Extra Vote is now her lifeline.
+
+## Episode 4
+
+Cila won immunity, so no tribal. Cirie continued managing her position on a tribe where Dee and Jonathan have identified her as a major threat. She holds Ozzy's Extra Vote and is playing a careful social game.

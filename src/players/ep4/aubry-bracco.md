@@ -19,3 +19,7 @@ Aubry received Christian Hubicki's Boomerang Idol from Cila -- a cross-tribal gi
 ## Episode 3
 
 The swap moved Aubry to new Kalo alongside her rival Genevieve, plus Coach, Colby, Joe, Chrissy, and Tiffany. When Coach bluntly told Chrissy she "talks too much," Chrissy pulled Aubry and Genevieve in for a vulnerable "girls talk" about changing her game. But Genevieve continued her campaign against Aubry, telling everyone on the tribe she couldn't be trusted. Tiffany stepped in and warned Aubry that Genevieve was being "sketchy" about her -- a potential lifeline. Kalo won second place in the immunity challenge, keeping Aubry safe.
+
+## Episode 4
+
+Kalo won second place (Chrissy steered them). Genevieve continued targeting Aubry socially. Tiffany gave Aubry a heads-up. No tribal.

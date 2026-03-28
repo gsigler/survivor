@@ -20,3 +20,7 @@ The swap separated Tiffany from her core allies Dee and Kamilla, sending her to 
 ## Episode 4
 
 Kalo won the "Arch Nemesis" immunity challenge and the full reward -- a spearfishing trip and a Zac Brown concert. Tiffany enjoyed the reward alongside her tribe. No strategic drama surfaced, but her relationship with Aubry continues to develop quietly. She's in a comfortable position within a winning tribe, with cross-tribal bonds starting to form for whenever the game shifts.
+
+## Episode 5
+
+Tiffany delivered an impressive comeback swim leg in the immunity challenge; Jeff Probst called her "the hero of this challenge." Kalo won immunity. She remains safe but has had only 2 total confessionals this season per Inside Survivor stats. She is the only Survivor 46 player left in the game after Charlie's elimination.

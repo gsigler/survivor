@@ -19,3 +19,7 @@ Colby continued to lead the Vatu majority alongside Stephenie and Genevieve. The
 ## Episode 3
 
 The swap separated Colby from most of his Vatu allies. He landed on new Kalo with only Genevieve from his original alliance, plus Coach, Chrissy, Joe, Aubry, and Tiffany. He quickly bonded with Joe Hunter and Coach over "good core values," forming a new alliance. His Lost Vote remains untested -- Kalo won second-place immunity, keeping him safe once again. But if Kalo goes to Tribal, Colby will be unable to vote, making him especially vulnerable.
+
+## Episode 4
+
+Colby bonded with Coach and Joe over "good core values." Kalo won second place in the challenge, no tribal. His lost-vote disadvantage remains untested.

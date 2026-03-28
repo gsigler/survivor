@@ -23,3 +23,7 @@ The swap moved Aubry to new Kalo alongside her rival Genevieve, plus Coach, Colb
 ## Episode 4
 
 Kalo dominated the immunity challenge ("Arch Nemesis"), winning both reward and immunity -- a private spearfishing trip and a concert with country star Zac Brown. Aubry enjoyed the reward while Genevieve quietly moved against her from within the tribe. Genevieve found a new Boomerang Idol on Kalo's beach and secretly planted it in Rizo's bag on Cila, setting up a cross-tribal betrayal for later. Aubry remains unaware of Genevieve's latest maneuvering but her own idol keeps her well protected.
+
+## Episode 5
+
+Kalo won immunity (Joe Hunter landed the final sandbag). Aubry, sensing she is on the outs, proactively approached Coach and spoke his language — respecting the game's history and honoring the experience. She appears to be auditioning for a role in his knighthood alliance. Her Boomerang Idol remains unplayed.

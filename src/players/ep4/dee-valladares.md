@@ -16,3 +16,7 @@ Dee's perceptive reads shone through. She labeled Coach "old and dismantled" aft
 ## Episode 3
 
 The swap sent Dee to new Cila alongside three fellow Kalo members (Charlie, Jonathan, Kamilla), giving them a 4-3 majority over Cirie, Rick (Cila), and Rizo (Vatu). Dee wasted no time -- she and Jonathan immediately began discussing Cirie's threat level. Dee revealed that a friend had specifically warned her: if she ended up on a tribe with Cirie, she needed to vote her out because "everyone loves her." Cila won the immunity challenge thanks to Kamilla's dominant calling, so no vote was needed yet.
+
+## Episode 4
+
+Cila won immunity and no tribal occurred. Dee remained part of the dominant Kalo four majority. Kamilla dominated as caller to lead Cila to first place in the challenge.

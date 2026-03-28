@@ -23,3 +23,7 @@ The tribe swap was devastating for Cirie's position. She landed on new Cila with
 ## Episode 4
 
 Cila placed second in the immunity challenge, so Cirie avoided another Tribal Council. She remains in a precarious minority position, but every week she isn't voted out is a week she can work on the Kalo four. Charlie is focused on Rizo right now, which may accidentally be giving Cirie more breathing room than she realizes. She continues to hold her Extra Vote in reserve.
+
+## Episode 5
+
+Cirie formed a genuine final-two bond with Rizo Velovic, reciprocating by revealing her Extra Vote advantage to him — a major act of trust. When Rizo brought Dee and Kamilla into his counter-plan against Charlie, Cirie voted with the bloc (4-3), helping send Charlie home for the first time in his Survivor career. Cirie's social and strategic game is operating quietly at a high level; she has yet to receive a single vote against her.

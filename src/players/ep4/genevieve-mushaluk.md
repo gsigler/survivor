@@ -19,3 +19,7 @@ Genevieve stepped up as a strategic force on Vatu. She orchestrated a full bag s
 ## Episode 3
 
 The swap sent Genevieve to new Kalo with only Colby from her original alliance. She leaned into what she called her "new and improved social game," but it consisted mostly of telling everyone she didn't trust Aubry -- effectively throwing her under the bus to the whole tribe. The campaign backfired when Tiffany went directly to Aubry and warned her that Genevieve was being "sketchy." Genevieve also participated in Chrissy's "girls talk" along with Aubry, an awkward dynamic given her behind-the-scenes campaign. Kalo won second-place immunity.
+
+## Episode 4
+
+Genevieve threw Aubry under the bus to the tribe. Kalo won second place in the challenge, no tribal.

@@ -16,3 +16,7 @@ Jonathan went fishing with Coach, but the outing turned into a rescue operation 
 ## Episode 3
 
 The swap landed Jonathan on new Cila with three fellow Kalo members (Dee, Charlie, Kamilla), giving them a 4-3 majority. Jonathan and Dee immediately began discussing Cirie as their top target, recognizing her as the biggest strategic threat in the game. Separated from his ally Coach, Jonathan is building new connections within the Kalo bloc. Cila won the immunity challenge in dominant fashion thanks to Kamilla's calling, so Jonathan didn't need to show his hand yet.
+
+## Episode 4
+
+Cila won immunity and no tribal occurred. Kamilla was standout caller in the challenge, leading Cila to first place. Jonathan continued working within the Kalo four majority.

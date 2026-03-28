@@ -23,3 +23,7 @@ The swap isolated Rizo on new Cila as the only Vatu member, alongside Cirie and 
 ## Episode 4
 
 Rizo found an idol in his bag and believes it's his -- but it was secretly planted there by Genevieve Mushaluk, who crossed tribal lines to set a trap. Rizo has no idea the idol is a ticking time bomb designed to be reclaimed when Genevieve decides to betray him. He likely feels more secure than he should. Cila placed second in the immunity challenge, so he avoided Tribal Council again -- but Charlie's "Operation Bad Blood" is quietly building against him. His position is more precarious than he knows.
+
+## Episode 5
+
+Rizo executed "Operation Bad Blood" — his name for the counter-plan against Charlie — by flipping Dee and Kamilla using Boomerang Idol information and a fabricated story about Kyle Fraser. He also formed a tight final-two with Cirie, who revealed her Extra Vote to him in return. His Boomerang Idol remained unplayed as the vote landed 4-3 on Charlie. Rizo has turned a vulnerable position into a dominant one through a combination of information, charm, and Taylor Swift references. Charlie's exit line ("Teardrops on My Guitar") confirmed Rizo had gotten into his head all game.

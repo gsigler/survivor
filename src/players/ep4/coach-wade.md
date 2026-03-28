@@ -16,3 +16,7 @@ Coach clashed with Ozzy over "honor" at the reward challenge, reigniting their S
 ## Episode 3
 
 The swap sent Coach to new Kalo with his ally Chrissy, plus Colby, Joe, Genevieve, Aubry, and Tiffany. Joe immediately approached Coach and Colby about working together, and Coach was all in, forming a values-based alliance. He also brought Chrissy into the group but worried she would have been voted out pre-swap. In a well-intentioned but blunt move, he told Chrissy that "everyone thought she talked too much" on old Kalo, hoping to help her fix her social game. The honesty upset Chrissy but may have sparked genuine self-reflection. Kalo won second-place immunity.
+
+## Episode 4
+
+Coach bluntly told Chrissy she talks too much. Joe bonded with him and Colby over "good core values." Kalo won second place in the challenge, no tribal.

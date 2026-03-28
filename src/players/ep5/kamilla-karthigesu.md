@@ -20,3 +20,7 @@ Kamilla was the star of the immunity challenge. As the caller for new Cila in th
 ## Episode 4
 
 Cila placed second in the immunity challenge ("Arch Nemesis"), narrowly missing the Zac Brown concert reward. No Tribal Council meant another safe week for Kamilla and her Kalo allies. She continues to play a steady, low-profile game within a comfortable majority.
+
+## Episode 5
+
+Kamilla flipped against Charlie after Rizo shared the Boomerang Idol mechanics with her and told a story about Kyle Fraser recommending her as trustworthy. She was skeptical of Rizo's pitch ("Why would anyone call themselves 'the Rizgod'?") but ultimately joined the 4-3 majority. Kamilla's position has quietly strengthened; she is now aligned with the dominant Cila bloc.

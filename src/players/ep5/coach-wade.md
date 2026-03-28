@@ -20,3 +20,7 @@ The swap sent Coach to new Kalo with his ally Chrissy, plus Colby, Joe, Geneviev
 ## Episode 4
 
 Kalo won the "Arch Nemesis" immunity challenge and the reward -- a private spearfishing trip followed by a concert with country star Zac Brown. Coach got to enjoy the experience with his alliance, deepening the tribal bonds. It was a strong week for Kalo and for Coach's position within it.
+
+## Episode 5
+
+Coach formally unveiled his new identity: "The Tide Walker." He knighted two allies in a ceremony — Joe Hunter ("The Stone Bell Monk") and Colby Donaldson ("The Oak Bound Warrior") — invoking what he described as ancient Japanese lore. His quote: "We're all out here to right the wrongs of past mistakes." Coach had 0 tribal councils through five episodes and is building a structured alliance with strong personalities.

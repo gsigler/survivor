@@ -16,3 +16,7 @@ Stephenie continued to play a steady game within the Vatu majority. The core fou
 ## Episode 3
 
 The swap devastated Stephenie's game. She landed on new Vatu with Q, Ozzy, Christian, Emily, Mike, and Angelina. She aligned with Q and Ozzy, targeting Angelina. When the vote plan started to feel shaky, Stephenie considered playing her Shot in the Dark, but Q convinced her he'd take the votes on himself to protect her. The plan backfired catastrophically -- Emily and Ozzy flipped, and Q was voted out 5-1 with Stephenie casting the lone dissenting vote for Angelina. She's now isolated on the wrong side of the numbers, separated from her Vatu allies Colby and Genevieve.
+
+## Episode 4
+
+Stephenie was included in Christian's plan to blindside Mike White and voted accordingly in the 3-2-1 result. She is quietly aligning with Christian and Emily as a working trio, though her long-term position is unclear. She cast one of the three votes against Mike.
