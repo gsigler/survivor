@@ -25,3 +25,7 @@ The swap sent Genevieve to new Kalo with only Colby from her original alliance. 
 ## Episode 4
 
 A masterclass in long-game strategy. Genevieve found a new Boomerang Idol on Kalo's beach and secretly crossed tribal lines to plant it in Rizo's bag on Cila -- setting a trap to reclaim the idol when she eventually betrays him. Rizo found the idol and has no idea it was planted. Genevieve now holds two active Boomerang Idol finder positions: Ozzy on Vatu and Rizo on Cila. She then helped Kalo win the "Arch Nemesis" immunity challenge and enjoyed the full reward -- spearfishing and a Zac Brown concert. Arguably the most dangerous player in the game right now.
+
+## Episode 5
+
+Kalo won immunity. Genevieve continues to hold the Boomerang Idol Finder status — if either Aubry (who holds her gifted idol) or Ozzy (who holds the other) is voted out without playing it, it returns to Genevieve. She had 0 confessionals this episode.

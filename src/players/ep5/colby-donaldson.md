@@ -23,3 +23,7 @@ The swap separated Colby from most of his Vatu allies. He landed on new Kalo wit
 ## Episode 4
 
 Kalo won the "Arch Nemesis" immunity challenge and earned the full reward -- spearfishing and a Zac Brown concert. Colby's Lost Vote remains untested for a fourth straight episode, as Kalo continues to dominate. He's in a comfortable alliance and enjoying the benefits of a winning tribe, but his disadvantage looms whenever Kalo's streak ends.
+
+## Episode 5
+
+Colby was formally inducted into Coach's knighthood as "The Oak Bound Warrior," described as "the lawmaker in the forest." Kalo won immunity with Joe landing the final sandbag. Colby's lost-vote disadvantage from Episode 1 remains active.

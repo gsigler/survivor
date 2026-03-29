@@ -16,3 +16,7 @@ Rick's "nerd alliance" with Christian deepened. After Christian found the Boomer
 ## Episode 3
 
 The episode opened with Rick and Christian celebrating their Episode 2 "heist" at Tribal Council -- Christian faked a fall while Rick planted the fake idol parchment behind a rock near the fire pit. They told Cirie the cover story that Rick found the Boomerang Idol (not Christian) and gifted it to Aubry. Before the swap, they agreed to maintain this lie. The swap landed Rick on new Cila with only Cirie from original Cila -- the two of them are outnumbered 4-to-2 by former Kalo members (Charlie, Dee, Jonathan, Kamilla) plus Rizo from Vatu. The fake idol planted at Tribal Council remains undiscovered -- a potential ticking time bomb for the future. Cila won immunity in dominant fashion thanks to Kamilla's challenge calling, so Rick's vulnerable position wasn't tested yet.
+
+## Episode 4
+
+Cila won immunity and no tribal occurred. Kamilla was standout caller in the challenge, leading Cila to first place. Rick remained in the minority on Cila but stayed safe for another week.

@@ -1,7 +1,7 @@
 ---
 playerSlug: charlie-davis
 title: "Charlie Davis"
-status: Active
+status: Eliminated
 alliances: "<strong>Quietly orchestrating \"Operation Bad Blood\" against Rizo.</strong> His Kalo four (with Dee, Jonathan, Kamilla) holds a firm majority on Cila. Rizo, now unknowingly holding a planted idol, has become Charlie's primary target. The operation is in early stages but Charlie is methodically building toward it."
 ---
 
@@ -20,3 +20,7 @@ The swap landed Charlie on new Cila with three other Kalo members (Dee, Kamilla,
 ## Episode 4
 
 Cila placed second in the "Arch Nemesis" immunity challenge, narrowly missing out on the Zac Brown concert reward. With no Tribal Council to attend, Charlie turned his focus inward. His distrust of Rizo deepened further, and he began quietly laying the groundwork for what he's calling "Operation Bad Blood" -- a plan to engineer Rizo's exit. He's being deliberate and patient, not showing his hand yet, but the wheels are turning.
+
+## Episode 5
+
+Charlie was voted out 4-3 in the season's first Cila tribal council, the victim of a Rizo-engineered counter-alliance. Rizo, sensing Charlie was targeting him, flipped Dee and Kamilla by sharing Boomerang Idol information and invoking a fabricated story about Kyle Fraser recommending Kamilla as a trustworthy ally. He called his plan "Operation Bad Blood" — a deliberate Taylor Swift reference aimed at Charlie, a known Swiftie. Charlie made the critical mistake of directly confronting Rizo about idol information, accelerating the counter-move. Dee, refusing to let Jonathan and Charlie run her game, cast the deciding flip vote. At tribal, when Rizo did not play his Shot in the Dark, Charlie said "Oh, I'm cooked — I knew immediately something was up." He cried after his torch was snuffed and delivered his planned exit line to Jeff: "It's teardrops on my guitar." His first torch snuff in Survivor history after reaching Final 2 in Season 46.

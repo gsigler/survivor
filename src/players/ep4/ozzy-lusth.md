@@ -19,3 +19,7 @@ Ozzy gave Cirie his Extra Vote to cement their partnership, a major power move t
 ## Episode 3
 
 The swap separated Ozzy from his ride-or-die Cirie, sending him to new Vatu with Christian, Emily, Mike, Angelina, Q, and Stephenie. Q attempted to build trust with Ozzy by revealing that Vatu had sent him the Boomerang Idol and disclosing his own lost vote. Ozzy initially aligned with Q and Stephenie, planning to vote out Angelina. But Emily worked on Ozzy to flip, and he ultimately joined the DvG trio to vote Q out 5-1. When Q asked "Was this you?" before his torch was snuffed, the show captioned Ozzy's reply as "Yeah." His idol remains unplayed.
+
+## Episode 4
+
+Ozzy was completely blindsided by the vote against Mike White. He had cast his vote for Angelina while Christian, Emily, and Stephenie voted out Mike in a 3-2-1 result. His exclusion from the plan opened up old wounds — he publicly compared the betrayal to when John Cochran blindsided him in Season 23: South Pacific. His Boomerang Idol remains unplayed and his Shot in the Dark is still in his possession.

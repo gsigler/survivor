@@ -20,3 +20,7 @@ The swap devastated Stephenie's game. She landed on new Vatu with Q, Ozzy, Chris
 ## Episode 4
 
 Stephenie made the strategic pivot she needed. After two Tribal Councils on the wrong side, she joined Christian and Emily to vote out Mike White 3-2-1. Mike and Angelina voted Emily; Ozzy voted Angelina. No advantages were played. Stephenie's move aligns her with Vatu's new power trio and gives her the best chance of survival heading into the next phase of the game. She's no longer on the bottom.
+
+## Episode 5
+
+Stephenie voted with the majority against Angelina (4-1), continuing her quiet alignment with Christian and Emily. Angelina cast her sole vote against Stephenie. With only four players left on Vatu, Stephenie's position is stable but she has minimal room to maneuver heading into what appears to be a coming merge.

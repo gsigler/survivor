@@ -20,3 +20,7 @@ Emily's game exploded in the swap episode. As the tribe swap was announced, Chri
 ## Episode 4
 
 Emily received two votes from Mike and Angelina as Mike's final gambit to flip the narrative and get her out. It didn't work -- Christian sided with her, and together with Stephenie they voted out Mike 3-2-1. Ozzy cast a lone vote for Angelina. No advantages were played. Mike's parting shot -- warning Christian that Emily would betray him just as Gabby had -- is now a permanent piece of tribal lore. Emily emerged from Episode 4 as a full member of the new Vatu majority, but with a target on her back if Christian ever revisits Mike's warning.
+
+## Episode 5
+
+Emily recognized that Christian giving Ozzy the Shot in the Dark was the right move and advised Christian to follow through, drawing on her own experience in Season 45 when she had similarly surrendered her Shot in the Dark. She voted with the majority against Angelina (4-1). Emily has quietly become an important strategic voice on Vatu, bridging the gap between the DvG alliance and Ozzy.

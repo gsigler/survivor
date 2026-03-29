@@ -16,3 +16,7 @@ Angelina continued to receive limited screen time as Vatu won immunity again, av
 ## Episode 3
 
 The tribe swap landed Angelina on new Vatu with two of her David vs. Goliath castmates — Christian and Mike White — forming a natural trio. She was the target for Q, Ozzy, and Stephenie's alliance, receiving one vote from Stephenie at Tribal Council. But Mike orchestrated the counter-plan to vote Q, and Emily's flip sealed the deal. Angelina survived her first Tribal Council of the season relatively unscathed.
+
+## Episode 4
+
+Angelina received one vote from Ozzy at Tribal Council as part of the scrambled 3-2-1 result. She was not in on Christian's plan to blindside Mike and remains on the outside of the Christian-Emily-Stephenie trio. Her position on Vatu is precarious with only five members remaining post-Q and post-Mike.

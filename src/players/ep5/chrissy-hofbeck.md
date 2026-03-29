@@ -20,3 +20,7 @@ The swap moved Chrissy to new Kalo with her ally Coach, plus Colby, Joe, Genevie
 ## Episode 4
 
 Kalo won the "Arch Nemesis" immunity challenge outright, earning a private spearfishing trip and a concert with country star Zac Brown. Chrissy got to enjoy the reward -- a welcome reprieve after the emotional turbulence of the previous episode. With no threat of Tribal Council, she continued quietly working to stabilize her relationships within the Coach-Joe-Colby alliance. No new threats emerged for her this week.
+
+## Episode 5
+
+Kalo won immunity. Chrissy remains a target in Coach's eyes but has survived by being part of his extended alliance. She had 0 confessionals this episode according to Inside Survivor stats.

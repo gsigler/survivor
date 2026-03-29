@@ -16,3 +16,7 @@ Tiffany had limited screen time as Kalo continued to win challenges. Her women's
 ## Episode 3
 
 The swap separated Tiffany from her core allies Dee and Kamilla, sending her to new Kalo with Coach, Chrissy, Colby, Joe, Genevieve, and Aubry. She made a savvy social move by going directly to Aubry and warning her that Genevieve was being "sketchy" about her, telling everyone on the tribe she couldn't be trusted. This tip-off could be the start of an important bond with Aubry, giving Tiffany a potential ally outside the Coach-Joe-Colby-Chrissy bloc. Kalo won second-place immunity.
+
+## Episode 4
+
+Tiffany tipped Aubry off about Genevieve targeting her. Kalo won second place in the challenge, no tribal.

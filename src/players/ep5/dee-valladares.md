@@ -20,3 +20,7 @@ The swap sent Dee to new Cila alongside three fellow Kalo members (Charlie, Jona
 ## Episode 4
 
 Cila placed second in the immunity challenge, earning immunity but not the reward. Kalo won the full prize -- a private spearfishing trip and a Zac Brown concert -- and Dee was visibly emotional about missing out. The Zac Brown concert was clearly a significant moment for her. Despite the disappointment, no Tribal Council meant another safe week for the Kalo four. Dee remains firmly in control of Cila's majority.
+
+## Episode 5
+
+Dee flipped against Charlie after Rizo shared his Boomerang Idol information with her, refusing to let Jonathan and Charlie dictate her game. She called Charlie "the dumbest player here" in confessional. Her vote was decisive in the 4-3 result. Dee is emerging as an independent strategic force on Cila.

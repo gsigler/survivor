@@ -20,3 +20,7 @@ The episode opened with Rick and Christian celebrating their Episode 2 "heist" a
 ## Episode 4
 
 Cila placed second in the immunity challenge, keeping Rick safe for another week. With Charlie focused on building "Operation Bad Blood" against Rizo, Rick and Cirie are benefiting from the Kalo four's divided attention. Rick continues to hold the information advantage of knowing Rizo is Cirie's ally in name only. The fake idol he planted at old Cila's Tribal Council is still sitting undiscovered -- a potential game-changer if someone finds it.
+
+## Episode 5
+
+Rick voted for Rizo in the 4-3 result alongside Jonathan and Charlie, ending up on the wrong side. He enters the likely merge without his former Cila alliance intact and will need to rebuild connections.

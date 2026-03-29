@@ -5,7 +5,9 @@ status: Active
 advantages:
   - name: "Boomerang Idol"
     desc: "Originally gifted by Genevieve (Vatu). Good through Final 5. Cannot give away, must play on himself. If voted out with it, it returns to Genevieve."
-alliances: "<strong>A lone wolf on Vatu after casting an independent vote.</strong> Ozzy voted for Angelina while everyone else split 3-2. He's not firmly in any alliance -- not with the Christian/Emily/Stephenie trio and not with Angelina. His idol provides personal protection, but his unpredictability may be raising red flags."
+  - name: "Shot in the Dark"
+    desc: "Handed over by Christian Hubicki as a loyalty gesture. Can be played at any Tribal Council to forfeit vote in exchange for a 1-in-6 chance of safety."
+alliances: "<strong>Pacified by Christian's Shot in the Dark handover, voted with the 4-1 majority against Angelina.</strong> Ozzy voted for Angelina while everyone else split 3-2. He's not firmly in any alliance -- not with the Christian/Emily/Stephenie trio and not with Angelina. His idol provides personal protection, but his unpredictability may be raising red flags."
 ---
 
 ## Episode 1
@@ -23,3 +25,7 @@ The swap separated Ozzy from his ride-or-die Cirie, sending him to new Vatu with
 ## Episode 4
 
 In the most independent vote of the season, Ozzy cast his ballot for Angelina while the rest of the tribe split between Mike and Emily. He wasn't part of either the Christian/Emily/Stephenie plan or the Mike/Angelina counter. The result was a 3-2-1 vote with Mike eliminated. What Ozzy's true read was -- and who he trusts -- remains unclear. His Boomerang Idol is still unplayed, and he has no close allies on Vatu since Cirie is on a different tribe.
+
+## Episode 5
+
+Ozzy entered the episode furious about being excluded from the Mike White blindside, drawing direct parallels to Cochran's betrayal in South Pacific. He pressured Christian to hand over his Shot in the Dark as a show of trust — a demand Christian fulfilled. With the scroll in hand, Ozzy felt secure and agreed to the unified vote against Angelina (4-1). He has now accumulated significant power: his Boomerang Idol plus Christian's Shot in the Dark. Whether his distrust of Christian fully dissipates remains to be seen. He now holds more advantages than any other player in the game.

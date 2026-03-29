@@ -20,3 +20,7 @@ The swap was a lifeline for Joe, landing him on new Kalo far from his Cila rival
 ## Episode 4
 
 Kalo won both the immunity challenge and reward -- a private spearfishing trip and a Zac Brown concert. Joe enjoyed the spoils alongside his alliance. No threats, no Tribal Council, just a strong position on a winning tribe. His game has transformed completely since the swap.
+
+## Episode 5
+
+Joe landed the final sandbag to win immunity for Kalo, earning praise from Jeff Probst. Coach formally inducted him as "The Stone Bell Monk" in the knighthood alliance — Coach called him "the most resolute, stalwart, and truthful person to ever play this game, including myself."

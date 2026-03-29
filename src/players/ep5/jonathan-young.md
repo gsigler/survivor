@@ -20,3 +20,7 @@ The swap landed Jonathan on new Cila with three fellow Kalo members (Dee, Charli
 ## Episode 4
 
 Cila placed second in the immunity challenge, earning immunity but not the reward. With no Tribal Council, Jonathan continued to solidify his position within the Kalo four. The group remains on the same page about Cirie as the priority target. A quiet but strong episode for Jonathan.
+
+## Episode 5
+
+Jonathan voted for Rizo in the 4-3 split, ending up on the losing side of the vote. He was part of the men's bloc (with Rick and Charlie) targeting Rizo, but Dee and Kamilla flipped. He goes into the likely merge having lost his closest shield on the tribe.
